@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  padding: 50px 0px;
+  
+}
+.lists {
+  width: 960px;
+  margin: 0 auto;
+}
+.list1 {
+  width: 960px;
+  color: black;
+  background-color: rgb(180, 180, 180);
+  padding: 20px;
+}
+.list2 {
+  width: 960px;
+  color: black;
+  background-color: white;
+  padding: 20px;
+  
+}
+
+.boxes {
+  width: 960px;
+  padding: 50px 0px;
+  margin: 0 auto;
+  height: 800px;
+}
+
+.row1{
+  display: flex;
+}
+
+.row2 {
+ display: flex;
+ margin-top: 40px;
+}
+
+.row3 {
+  display: flex;
+  margin-top: 40px;
+ }
+
+.box1 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
+
+.box2 {
+  margin-left: 5%;
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+.box3 {
+  margin-left: 5%;
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box4 {
+  
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+.box5 {
+  margin-left: 5%;
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
+.box6 {
+  margin-left: 5%;
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+.box7 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+.box8 {
+  margin-left: 5%;
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+.box9 {
+  margin-left: 5%;
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
