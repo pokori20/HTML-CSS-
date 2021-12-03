@@ -8,14 +8,12 @@
   text-decoration: none;
 } */
 header {
-    width: 90%; /* 横幅90% */
-    padding: 15px 0;
+    width: 100%; 
+    padding: 20px 0;
     margin: 0 auto;
     text-align: center;
 }
-header .heading { 
-  font-size: 32px;
-}
+
 .nav-list {
   text-align: center;
   padding: 10px 0;
@@ -27,14 +25,12 @@ header .heading {
   margin: 0 20px;
 }
 .main {
-
-  width: 100%;
-  height: 600px;
-  margin: 50px 0;
-}
-.box-green {
+  width: 800px;
+  margin: 50px auto;
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
+
+}
 
 }
 .box1{
@@ -58,11 +54,6 @@ header .heading {
   background-color: #93ffab;
 }
 
-.box-yellow {
-  display: flex;
-  justify-content: center;
-
-}
 .box5{
   width: 200px;
   height: 200px;
@@ -84,11 +75,6 @@ header .heading {
   background-color: #e4ff8d;
 }
 
-.box-blue {
-  display: flex;
-  justify-content: center;
-
-}
 .box9{
   width: 200px;
   height: 200px;
